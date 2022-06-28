@@ -1,3 +1,4 @@
 "Ini adalah file CV"
 perusahaan_01
 perusahaan_02
+perusahaan_03
